@@ -45,7 +45,7 @@ Contributions are more than welcome! Open-source collaboration is at the core of
 
 In the words of *Confucius*:
 
-> **_"The superior man is modest in his speech, but exceeds in his actions."_
+> _"The superior man is modest in his speech, but exceeds in his actions."_
 
 Let this repository inspire you to not only *dream* but to *do*—to transform ideas into impactful applications that shape the future.
 
