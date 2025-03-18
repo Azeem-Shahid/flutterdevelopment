@@ -1,0 +1,33 @@
+name: lesson1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  math_expressions: ^2.7.0
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  shared_preferences: ^2.0.11  # Add the shared_preferences package
+  flutter_launcher_icons: ^0.13.1  # <-- ✅ Added this
+
+flutter:
+  assets:
+    - assets/images/bgnu.jpeg
+
+  uses-material-design: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
